@@ -1,0 +1,13 @@
+.odd {
+    font-family:verdana, "DeJaVu Sans", sans-serif;
+    background-color: rgb(250, 182, 194);
+}
+.third {
+    font-size: 24px;
+}
+#dog {
+    font-size: 36px; color: blue;
+}
+#cat {
+    font-weight: bold; font-size: 24px; background-color: rgb(24, 255, 16);
+} 
